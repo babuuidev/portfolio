@@ -138,10 +138,10 @@
 
 /*----------------------------- Google Map --------------------------*/
   $('#gmap').gmap3({
-    marker:{address:"Haltern am See, Weseler Str. 151", options:{icon: "img/location1.png"}},
+    marker:{address:"830 Pacific Avenue, Apt #B, Hoffman Estates, Illinois, 60169.", options:{icon: "img/location1.png"}},
     map:{
         options:{
-        zoom: 14,
+        zoom: 15,
         scrollwheel: false
                 }
         }
