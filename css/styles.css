@@ -2134,7 +2134,7 @@ padding-left:100px;
     font-weight: 400;
     margin: 0;
     color: #fff;
-    font-weight: bold;
+    font-weight: bold; 
 }
 #resume > div > div.row > div > div > div:nth-child(2) > div > div.timeline-post-content > p,
 #resume > div > div.row > div > div > div:nth-child(3) > div > div.timeline-post-content > p{
