@@ -2140,6 +2140,9 @@ padding-left:100px;
 #resume > div > div.row > div > div > div:nth-child(3) > div > div.timeline-post-content > p{
 text-align:justify;
 }
-.company{
+#resume > div > div.row > div > div > div:nth-child(4) > div > div.timeline-post-subtitle > p.company{
+    color:coral;
+}
+#resume > div > div.row > div > div > div:nth-child(5) > div > div.timeline-post-subtitle > p.company{
     color:coral;
 }
